@@ -57,15 +57,15 @@ global.psaweria = 'https://saweria.co/ZakYGZ'
 
 /*============== NOMOR ==============*/
 global.nomorbot = '6288291659138'
-global.nomorown = '6288210387012'
-global.namebot = 'ΣazwamBoT-MD⊰⊹ฺ'
+global.nomorown = '18312919169'
+global.namebot = 'ΣazwanBoT-MD⊰⊹ฺ'
 global.nameown = 'azwanGanS'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6288210387012'],
-  ['6288210387011'],
+  ['18312919169'],
+  ['18312919169'],
   ['+1 (831) 291-9169'],
   ['+1 (831) 291-9169', 'azwanGanS', true]
   // [number, dia creator/owner?, dia developer?]
