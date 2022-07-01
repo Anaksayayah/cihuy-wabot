@@ -48,26 +48,26 @@ global.sdc = 'https://youtube.com/channel/UCgnsm5vkY2wlRJnpD9I-7SQ'
 global.snh = 'https://nhentai.net/g/365296/'
 
 /*============== PAYMENT ==============*/
-global.pdana = '088210387012'
-global.povo = '088210387012'
-global.pgopay = '088210387012'
-global.ppulsa = '088210387012'
-global.ppulsa2 = '088210387012'
-global.psaweria = 'https://saweria.co/ZakYGZ'
+global.pdana = '085890531178'
+global.povo = '-'
+global.pgopay = '085770736388'
+global.ppulsa = '085770736388'
+global.ppulsa2 = '085890531178'
+global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6288291659138'
-global.nomorown = '18312919169'
-global.namebot = 'ΣazwanBoT-MD⊰⊹ฺ'
-global.nameown = 'azwanGanS'
+global.nomorbot = '6285893481599'
+global.nomorown = '6285890531178'
+global.namebot = 'ΣhamzxBoT-MD⊰⊹ฺ'
+global.nameown = 'hanzkhull'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['18312919169'],
-  ['18312919169'],
-  ['+1 (831) 291-9169'],
-  ['+1 (831) 291-9169', 'azwanGanS', true]
+  ['6285890531178'],
+  ['6285890531178'],
+  ['+6285890531178'],
+  ['+6285890531178', 'hamzxKhul', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -112,13 +112,13 @@ global.APIKeys = { // APIKey Here
 
 
 /*============== WATERMARK ==============*/
-global.wm = 'azwanBoT-MD⊰⊹ฺ' //Main Watermark
-global.wm2 = '¸„٭⊹•~⍣°”ˆ˜¨azwanBoT-MD¨˜ˆ”°⍣~•⊹٭„¸'
-global.wm3 = '☘︎ azwanʙᴏᴛ-MD'
+global.wm = 'hamzxBoT-MD⊰⊹ฺ' //Main Watermark
+global.wm2 = '¸„٭⊹•~⍣°”ˆ˜¨hamzxBoT-MD¨˜ˆ”°⍣~•⊹٭„¸'
+global.wm3 = '☘︎ hamzxʙᴏᴛ-MD'
 global.botdate = `☘︎ 𝗗𝗮𝘁𝗲: ${week} ${date}\n☘︎ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = `ΣazwanBoT-MD⊰⊹ฺ| By ${global.nameown}`
-global.author = '┄┄┄┅┅❑ zaky ❑┅┅┄┄┄'
+global.titlebot = `ΣhamzxBoT-MD⊰⊹ฺ| By ${global.nameown}`
+global.author = '┄┄┄┅┅❑ hamz ❑┅┅┄┄┄'
 
 
 /*============== LOGO ==============*/
